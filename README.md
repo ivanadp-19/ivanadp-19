@@ -4,7 +4,6 @@ I enjoy exploring different areas of development and continuously learning.
 
 Currently building:
 • aindez.ai
-• minutria.app
 • sabanas (open-source)
 
 I also write about what I learn at felipealonzo.mx
